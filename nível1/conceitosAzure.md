@@ -42,6 +42,7 @@ Existem 3 modelos de implantação para computação em nuvem: publica, privada 
   -As organizações controlam a segurança, a conformidade ou os requisitos legais.
 
 
+
 ## considerações e os benefícios da nuvem
 
 **Vantagens:**
@@ -71,6 +72,10 @@ Obs: os serviços de nuvem são Opex devido ao seu modelo de consumo.Os provedor
 assinaturas.Ele sobrepôe todos os serviços como o IasS e o PaaS. Exemplo: serviços de e-mail  baseados na web como hotmail, mail e outros, CRM(GERENCIAMENTO DE RELACIONAMENTO COM CLIENTE), ERP(PLANEJAMENTO DE RECURSOS EMPRESARIAIS) e gerenciadores de documentos
 
 
+## Computação Sem servidor(Serverless)
+
+**O que é uma computação sem servidor?**
+Eliminando a necessidade de gerenciar a infraestrutura, a computação sem servidor permite que os desenvolvedores criem aplicativos de forma mais rápida. Com aplicativos sem servidor, o provedor de serviços de nuvem provisiona, dimensiona e gerencia automaticamente a infraestrutura necessária para executar o código.Ao entender a definição da computação sem servidor, é importante observar que os servidores ainda executam o código. O nome sem servidor se deve ao fato de que as tarefas associadas ao provisionamento e ao gerenciamento da infraestrutura são invisíveis para o desenvolvedor. Essa abordagem permite que os desenvolvedores se concentrem mais na lógica comercial e ofereçam mais valor à parte principal dos negócios. A computação sem servidor ajuda as equipes a aumentar a produtividade e a colocar os produtos no mercado com rapidez, o que permite que as organizações otimizem melhor os recursos e mantenham o foco na inovação.
 
 
 
@@ -85,3 +90,4 @@ https://azure.microsoft.com/pt-br/overview/types-of-cloud-computing/?WT.mc_id=ja
 
 https://azure.microsoft.com/pt-br/topic/what-is-kubernetes/
 
+https://azure.microsoft.com/pt-br/overview/serverless-computing/
