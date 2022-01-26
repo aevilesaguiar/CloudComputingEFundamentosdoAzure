@@ -6,7 +6,7 @@
 - Descrever as diferenças entre os tipos de computação em nuvem
 # Tipos de Mocelos de Nuvem
 
-**- O que são nuvens públicas, privadas e híbridas?**
+**O que são nuvens públicas, privadas e híbridas?**
 Existem 3 modelos de implantação para computação em nuvem: publica, privada e híbrida.
 - Na nuvem pública os seus serviços não oferecidos pela Internet pública e ficam disponíveis para qualquer pessoa que deseje comprá-los. Os recursos de nuvem, como servidores e armazenamento são se propriedade e operados por um provedor de serviços de nuvem de terceiros e entregues pela internet. Ao contrário das nuvens privadas, as nuvens públicas podem poupar as empresas dos enormes gastos de compra, gerenciamento e manutenção e hardware local e infraestrutura de aplicativo. No caso da nuvem pública, o provedor de serviços de nuvem é responsável por todo o gerenciamento e manutenção do sistema. As nuvens públicas também podem ser implantadas mais rápido do que infraestruturas locais e com uma plataforma quase infinitamente escalonável. Todos os funcionários de uma empresa podem utilizar o mesmo aplicativo de um escritório ou filial usando o dispositivo de sua escolha, contanto que tenham acesso à Internet. Embora algumas questões sobre segurança tenham sido levantadas em relação aos ambientes de nuvem pública, quando implantada corretamente, a nuvem pública pode ser tão segura quanto a implantação de uma nuvem privada com gerenciamento altamente eficaz caso o provedor utilize métodos adequados de segurança, como sistemas de prevenção e detecção de invasão (IDPS).
 - Na nuvem privada consiste em em recursos de computação usados exclusivamente  por usuários de uma empresa ou organização. Um nuvem privada pode estar localizada fisicamente no datacenter(local) da organização ou ser hospedada por um provedor de serviços de terceiros.Dois modelos de serviços de nuvem podem ser utilizados em uma nuvem privada. O primeiro é a infraestrutura como serviço (IaaS), que permite que a empresa use recursos de infraestrutura, como computação, rede e armazenamento como serviço. O segundo é a plataforma como serviço (PaaS), que permite que a empresa faça de tudo, desde aplicativos simples baseados em nuvem até aplicativos empresariais sofisticados. As nuvens privadas também podem ser combinadas com nuvens públicas para criar uma nuvem híbrida, permitindo que as empresas usufruam de arrebentamento de nuvem para liberar mais espaço e dimensionar serviços de computação para nuvem pública mediante aumento da demanda de computação.
@@ -72,6 +72,8 @@ Eliminando a necessidade de gerenciar a infraestrutura, a computação sem servi
 
 ## apontamento
 O que é Kubernetes? O Kubernetes é um software open-source de orquestração para a implantação, o gerenciamento e a escala de contêineres.Conforme os aplicativos crescem para abranger vários contêineres implantados em vários servidores, operá-los torna-se mais complexo. Para gerenciar essa complexidade, o Kubernetes fornece uma API de software livre que controla como e em que local esses contêineres serão executados.
+
+Um blob, é uma coleção de dados binários armazenados como uma única entidade em um sistema de gerenciamento de banco de dados. Blobs geralmente são objetos de imagem, áudio ou outro objetos multimedia, apesar de algumas vezes código binário executável ser armazenado como um blob.
 ## Referencias
 
 [https://docs.microsoft.com/pt-br/learn/modules/fundamental-azure-concepts/introduction]
